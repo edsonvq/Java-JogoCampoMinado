@@ -1,4 +1,4 @@
-package br.com.iagoomes.modelo;
+package com.github.edsonvq.campominado;
 
 import br.com.iagoomes.excecao.ExplosaoException;
 import org.junit.jupiter.api.BeforeEach;
@@ -6,6 +6,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ *
+ * @author Edson
+ */
 class CampoTest {
 
     private Campo campo;
